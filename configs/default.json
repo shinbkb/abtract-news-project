@@ -1,0 +1,15 @@
+{
+  "dataset": "VLUS06/VietOnlineNews",
+  "revision": null,
+  "per_class": 500,
+  "seed": 42,
+  "data": "data",
+  "artifacts": "artifacts",
+  "max_features": 4000,
+  "min_df": 2,
+  "epochs": 20,
+  "patience": 5,
+  "batch_size": 128,
+  "linear_lr": 0.01,
+  "mlp_lr": 0.002
+}

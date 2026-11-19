@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+data
+notebooks
+*.ipynb
+tests
+work
+*.zip
